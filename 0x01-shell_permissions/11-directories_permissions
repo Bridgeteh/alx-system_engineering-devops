@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d -exact chmod ugo+x {} + 
