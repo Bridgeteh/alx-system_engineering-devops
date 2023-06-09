@@ -1,0 +1,5 @@
+#!/bin/bash
+git add . 
+git commit -m "he is a boy"
+git push
+
